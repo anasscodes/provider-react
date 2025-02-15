@@ -1,5 +1,4 @@
 import './App.css';
-import { Counter } from './compnents/counter/Counter';
 import CountriesList from './compnents/countries/CountriesList';
 import CounterProvider from './context/CounterProvider';
 
