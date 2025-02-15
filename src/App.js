@@ -13,8 +13,8 @@ function App() {
     
     <CounterProvider>
         <div className='container' >
-          {/* {<CountriesList/>} */}
-          <Counter/>
+          <CountriesList/>
+          {/* <Counter/> */}
         </div>
     </CounterProvider>
         
